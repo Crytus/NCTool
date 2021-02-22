@@ -1,6 +1,6 @@
 //
 // NCTool by Crytus Project
-//    Copyright (c) 2020,2021 Crytus Project All right reserved.
+//    Copyright (c) 2020,2021 Crytus Project All rights reserved.
 //
 using System;
 using System.Text;
