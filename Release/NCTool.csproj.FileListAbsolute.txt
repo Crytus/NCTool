@@ -1,0 +1,9 @@
+C:\Users\ykuri\Documents\Visual Studio 2019\Projects\NCTool-main\bin\Release\NCTool.exe.config
+C:\Users\ykuri\Documents\Visual Studio 2019\Projects\NCTool-main\bin\Release\NCTool.exe
+C:\Users\ykuri\Documents\Visual Studio 2019\Projects\NCTool-main\bin\Release\NCTool.pdb
+C:\Users\ykuri\Documents\Visual Studio 2019\Projects\NCTool-main\obj\Release\NCTool.NCTool.resources
+C:\Users\ykuri\Documents\Visual Studio 2019\Projects\NCTool-main\obj\Release\NCTool.Properties.Resources.resources
+C:\Users\ykuri\Documents\Visual Studio 2019\Projects\NCTool-main\obj\Release\NCTool.csproj.GenerateResource.cache
+C:\Users\ykuri\Documents\Visual Studio 2019\Projects\NCTool-main\obj\Release\NCTool.csproj.CoreCompileInputs.cache
+C:\Users\ykuri\Documents\Visual Studio 2019\Projects\NCTool-main\obj\Release\NCTool.exe
+C:\Users\ykuri\Documents\Visual Studio 2019\Projects\NCTool-main\obj\Release\NCTool.pdb
