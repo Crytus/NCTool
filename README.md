@@ -317,3 +317,6 @@ https://youtu.be/q0qxkIIjZgE
 
 ### アクリル板レーザー加工の例
 https://youtu.be/3Zfp7D-jRYk
+
+### アクリル板切削加工の例
+https://youtu.be/3z307GCU7QA
