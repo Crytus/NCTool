@@ -1,4 +1,8 @@
-﻿using System;
+//
+// NCTool by Crytus Project
+//    Copyright (c) 2020,2021 Crytus Project All right reserved.
+//
+using System;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
