@@ -1,0 +1,24 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NCTool", "NCTool.csproj", "{C8AC075B-7625-48E8-844F-B2C84446CEFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8AC075B-7625-48E8-844F-B2C84446CEFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8AC075B-7625-48E8-844F-B2C84446CEFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8AC075B-7625-48E8-844F-B2C84446CEFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8AC075B-7625-48E8-844F-B2C84446CEFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF9C1940-2BD2-4EC0-B4CE-174804FEC897}
+	EndGlobalSection
+EndGlobal
