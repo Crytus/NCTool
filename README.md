@@ -64,7 +64,7 @@ https://github.com/grbl/grbl/wiki
 
 また、CNCによっては、レーザー光源がオプションで使えるものがあり、本ツールはレーザー使用にも対応しています。
 
-対応するCNC
+対応するCNCの一例（すべて動作するかはわかりません。GRBLが使用されていることを目安にしてください）
 
 https://www.amazon.co.jp/s?k=CNC&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&ref=nb_sb_noss_2
 
