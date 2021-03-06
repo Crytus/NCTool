@@ -1087,7 +1087,7 @@ namespace NCTool
                             Console.WriteLine(s);
 					        putLog("; " + s);
                         	double w = double.Parse(t.Value);	// 幅
-                            if (leaser ||(w >= 2.0)) {		// 幅2ミリ以上は周囲切削
+                            if ((leaser && (w > 0.1))||(w >= 2.0)) {	// 幅2ミリ以上は周囲切削（レーザーは0.1を超える場合） 2021/03/06
                             	double p1x, p1y;
                             	double p2x, p2y;
                             	double p3x, p3y;
